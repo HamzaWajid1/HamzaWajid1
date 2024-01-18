@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/HamzaWajid1/HamzaWajid1/blob/main/pred.png" alt="Hamza Wajid Paracha" width="200" height="200">
+  <img src="https://github.com/HamzaWajid1/HamzaWajid1/blob/main/WhatsApp%20Image%202024-01-18%20at%2017.09.29_01ebc443.jpg">
 </div>
 
 <h1 align="center">👋 Hello, I'm Hamza Wajid Paracha</h1>
