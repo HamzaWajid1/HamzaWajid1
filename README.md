@@ -1,5 +1,9 @@
+<div align="center">
+  <img src="your-profile-image-url" alt="Hamza Wajid Paracha" width="200" height="200">
+</div>
+
 <h1 align="center">👋 Hello, I'm Hamza Wajid Paracha</h1>
-<p align="center">Passionate Data Scientist and NLP Engineer | US Citizen | Islamabad, Pakistan</p>
+<p align="center">Passionate Data Scientist and NLP Engineer</p>
 
 <p align="center">
   <a href="tel:+923216879672">📞 +92-321-6879672</a> |
@@ -38,15 +42,15 @@
 
 ## Skills & Other
 
-- Python, C++
-- Data Science, Data Preprocessing (Quantitative and Textual)
-- TensorFlow, PyTorch
-- SQL, NLP, ETL
-- Predictive Modelling, Machine Learning, Deep Learning
-- Data Visualization, Transformers Finetuning
-- Fast API, Auto-Encoders, Deep Neural Networks
-- Convolutional Neural Networks, GANs
-- Spacy, NLTK
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Data_Science-239120?style=for-the-badge&logo=data-science&logoColor=white" alt="Data Science">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/NLP-0081C5?style=for-the-badge&logo=nlp&logoColor=white" alt="NLP">
+</div>
 
 ## Certifications
 
@@ -59,3 +63,4 @@
 - High Achievers Award
 
 Feel free to connect with me via email or LinkedIn for any opportunities or collaborations!
+
