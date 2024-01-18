@@ -4,6 +4,7 @@
 
 <h1 align="center">👋 Hello, I'm Hamza Wajid Paracha</h1>
 
+<h2 align="center">Passionate Data Scientist and NLP Engineer</h2>
 <p align="center">
   <br>
   <h2 style="font-size: 1.5em;">&nbsp;Passionate Data Scientist and NLP Engineer&nbsp;</h2>
