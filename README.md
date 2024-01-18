@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/GANs-800080?style=for-the-badge&logo=gans&logoColor=white" alt="GANs">
   <img src="https://img.shields.io/badge/Spacy-09AABB?style=for-the-badge&logo=spacy&logoColor=white" alt="Spacy">
   <img src="https://img.shields.io/badge/NLTK-9ACD32?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK">
+  <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-FF6347?style=for-the-badge&logo=eda&logoColor=white" alt="Exploratory Data Analysis">
 </div>
 
 ## Projects
