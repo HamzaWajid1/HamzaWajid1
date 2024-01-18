@@ -43,6 +43,8 @@
   <img src="https://img.shields.io/badge/Spacy-09AABB?style=for-the-badge&logo=spacy&logoColor=white" alt="Spacy">
   <img src="https://img.shields.io/badge/NLTK-9ACD32?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK">
   <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-FF6347?style=for-the-badge&logo=eda&logoColor=white" alt="Exploratory Data Analysis">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Data_Cleaning-008080?style=for-the-badge&logo=clean&logoColor=white" alt="Data Cleaning">
 </div>
 
 ## Projects
