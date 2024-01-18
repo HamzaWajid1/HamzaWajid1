@@ -6,41 +6,20 @@
 <p align="center">Passionate Data Scientist and NLP Engineer</p>
 
 <p align="center">
-  <a href="tel:+923216879672">📞 +92-321-6879672</a> |
   <a href="mailto:hamzaparacha098@gmail.com">✉️ hamzaparacha098@gmail.com</a> |
   <a href="https://www.linkedin.com/in/hamza-wajid-paracha-60b6b2247/">LinkedIn</a> |
   <a href="https://github.com/HamzaWajid1">GitHub</a>
 </p>
 
 <p align="center">
-  🚀 Skilled in developing machine learning models, optimizing algorithms, and enhancing natural language processing systems.
+  🚀 Welcome to my world of data and algorithms! I'm a skilled practitioner in the realm of Data Science and Natural Language Processing. 
+  With a keen 👁️ for patterns and a passion for innovation, I thrive on crafting intelligent solutions that decode the language of data. 
+  Let's embark on a journey through the 🌌 universe of machine learning, where algorithms transform raw data into actionable insights.
+  From shaping models to refining algorithms, I navigate the intricate landscapes of ML, turning complexity into simplicity.
+  Join me on this exciting expedition into the ❤️ heart of artificial intelligence, where every line of code tells a story and every model is a masterpiece.
 </p>
 
-## Professional Experience
-
-### Omdena (Jan 2024 – Present)
-**AI Engineer**
-- Collaborated with 50 global peers to develop language models for Tamil and Sinhala.
-- Used NLP and LLMs to detect and flag inaccurate online content on Gender Equality and Social Inclusion (GESI).
-
-### Cube Programming (Sep 2023 – Dec 2023)
-**Junior Data Scientist**
-- Boosted sentiment analysis accuracy by 20% using NLP, refining customer feedback interpretation.
-- Tech Stack: Python (scikit-learn, pandas, NLTK, Spacy, TensorFlow), SQL.
-
-### Cube Programming (June 2023 – August 2023)
-**Data Scientist Intern**
-- Gained expertise in data analysis and visualization techniques.
-- Contributed to a 15% increase in insights extraction efficiency.
-
-## Education
-
-**GIK Institute of Engineering Science and Technology, Swabi-Pakistan (2021-Present)**
-- BS Computer Science, Junior Year.
-- Relevant Course Work: DSA, Databases, Linear Algebra, Statistics.
-- GPA: 3.50/4.00
-
-## Skills & Other
+## Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -50,6 +29,18 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/NLP-0081C5?style=for-the-badge&logo=nlp&logoColor=white" alt="NLP">
+  <img src="https://img.shields.io/badge/ETL-F68E56?style=for-the-badge&logo=etl&logoColor=white" alt="ETL">
+  <img src="https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=ml&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Deep_Learning-FF4500?style=for-the-badge&logo=dl&logoColor=white" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/Data_Visualization-6DB33F?style=for-the-badge&logo=dv&logoColor=white" alt="Data Visualization">
+  <img src="https://img.shields.io/badge/Transformers_Finetuning-FFD700?style=for-the-badge&logo=transformers&logoColor=white" alt="Transformers Finetuning">
+  <img src="https://img.shields.io/badge/Fast_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Fast API">
+  <img src="https://img.shields.io/badge/Auto_Encoders-8A2BE2?style=for-the-badge&logo=autoencoders&logoColor=white" alt="Auto Encoders">
+  <img src="https://img.shields.io/badge/Deep_Neural_Networks-FFD700?style=for-the-badge&logo=dnn&logoColor=white" alt="Deep Neural Networks">
+  <img src="https://img.shields.io/badge/Convolutional_Neural_Networks-008B8B?style=for-the-badge&logo=cnn&logoColor=white" alt="Convolutional Neural Networks">
+  <img src="https://img.shields.io/badge/GANs-800080?style=for-the-badge&logo=gans&logoColor=white" alt="GANs">
+  <img src="https://img.shields.io/badge/Spacy-09AABB?style=for-the-badge&logo=spacy&logoColor=white" alt="Spacy">
+  <img src="https://img.shields.io/badge/NLTK-9ACD32?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK">
 </div>
 
 ## Certifications
@@ -63,4 +54,3 @@
 - High Achievers Award
 
 Feel free to connect with me via email or LinkedIn for any opportunities or collaborations!
-
