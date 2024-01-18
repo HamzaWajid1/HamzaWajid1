@@ -3,9 +3,11 @@
 </div>
 
 <h1 align="center">👋 Hello, I'm Hamza Wajid Paracha</h1>
+
 <p align="center">
-  <h2 style="font-size: 1.5em;">Passionate Data Scientist and NLP Engineer</h2>
+  <h2 style="font-size: 1.5em; margin-bottom: 0;">Passionate Data Scientist and NLP Engineer</h2>
 </p>
+
 
 <p align="center">
   <a href="mailto:hamzaparacha098@gmail.com">✉️ hamzaparacha098@gmail.com</a> |
