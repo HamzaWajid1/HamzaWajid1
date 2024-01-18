@@ -75,7 +75,7 @@
         <p>⚡ Fun fact <strong>I think I am entertaining.</strong></p>
 
         <h3>Connect with me:</h3>
-        <!-- Add your social media links here -->
+        <https://www.linkedin.com/in/hamza-wajid-paracha-60b6b2247/>
 
         <h3>Languages and Tools:</h3>
         <!-- Add your programming languages and tools icons here -->
