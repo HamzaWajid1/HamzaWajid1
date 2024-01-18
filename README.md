@@ -43,6 +43,22 @@
   <img src="https://img.shields.io/badge/NLTK-9ACD32?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK">
 </div>
 
+## Projects
+
+### Fine Tuning Google Bert for Product Rating Prediction 🌟
+- Preprocessed Amazon review dataset using NLP, regular expressions, text blob, and word clouds.
+- Fine-tuned Google Bert on the preprocessed dataset to determine product ratings, achieving a remarkable 73% test data accuracy. 🚀📊
+
+### Semantic Search of PDF Documents using OpenAI and Google Palm 📚
+- Developed a semantic search system allowing users to efficiently search and retrieve information from PDF documents.
+- Utilized NLP and vector embeddings for efficient document indexing and retrieval. 🧠🔍
+
+### House Price Prediction with Advanced Regression Techniques 🏡
+- Implemented more than 10 machine learning algorithms for house price prediction.
+- Selected a stacked regressor model as the base model, achieving the least RMSE of 0.376. 🏠💰
+
+Feel free to explore these projects and don't hesitate to reach out if you have any questions or collaboration ideas! 🚀✨
+
 ## Certifications
 
 - Deep Learning Specialization, DeepLearning.ai (June 2023-Aug 2023)
