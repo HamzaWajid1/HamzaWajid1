@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hello, I'm Hamza Wajid Paracha</h1>
 
-<h2 align="center">Data Scientist and NLP Engineer</h2>
+<h2 align="center">AI + Software + NLP Engineer</h2>
 
 <p align="center">
   <a href="mailto:hamzaparacha098@gmail.com">✉️ hamzaparacha098@gmail.com</a> |
