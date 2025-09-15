@@ -27,7 +27,7 @@ I specialize in **Python, PyTorch, and modern AI frameworks**, and I love turnin
 
 ## 💼 Professional Experience
 
-### **Machine Learning Intern** | CplusSoft | Islamabad, Pakistan  
+### **Machine Learning Intern** | CplusSoft 
 *June 2024 - August 2024*
 - Built an internal **Team Management System** integrating ML, Power BI, and SQL agent-powered chatbot, enabling 100% natural language queries for workload tracking.
 - Developed a **RAG legal clause retrieval system** using ChromaDB and GPT-4, improving legal text retrieval accuracy by 25%.
@@ -43,15 +43,28 @@ I specialize in **Python, PyTorch, and modern AI frameworks**, and I love turnin
 
 ## 🛠 Projects
 
+### **Financial Transactions Anomaly Detection (In Progress)**  
+*Tech Stack: Python, Pandas, Scikit-learn, PyTorch, MLflow, Prefect, Apache Airflow, FastAPI, Streamlit, Docker, Kubernetes, PySpark*  
+- Designing an **end-to-end anomaly detection system** for financial transactions (~48K synthetic records) with real-world data issues.  
+- Completed **data cleaning, exploratory analysis, and feature engineering** to identify 30+ high-value features (balances, loan leverage, transaction behaviours).  
+- Currently implementing **unsupervised ML models** (Isolation Forest, Autoencoder, LOF) to detect anomalous patterns.  
+- Next steps: integrate **MLOps tools** (MLflow, Prefect/Apache Airflow, DVC), deploy via **FastAPI API** and a **Streamlit dashboard**, containerize with Docker, and explore **scalability with PySpark**.
+
+💻 [View Project on GitHub](https://github.com/HamzaWajid1/synthetic-finance-mlops)
+
+---
+
 ### **ArchiGen - AI Platform for Architects**  
 *Tech Stack: Stable Diffusion, LangChain, Crew AI, RAG*
 - Fine-tuned **Stable Diffusion models** for text-to-image generation of architectural housing plans, reducing design iteration time by 60%.
 - Implemented **LangChain & RAG-based chatbots** with multi-agent systems (Crew AI) for bylaw compliance, achieving 95% accuracy.
 - Developed **AI-powered image retrieval system** using embedding models with 90% relevance matching.
 
-💻 [View Project on GitHub](Your_Project_Link)  
+💻 [View Project on GitHub](https://github.com/floorplan-fyp/backend)  
 
 ---
+
+
 
 ## 🧰 Technical Skills
 
