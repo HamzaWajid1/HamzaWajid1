@@ -11,7 +11,6 @@ I'm an **entry-level Machine Learning Engineer** passionate about developing and
 
 I specialize in **Python, PyTorch, and modern AI frameworks**, and I love turning complex data problems into actionable AI solutions.
 
----
 
 
 
