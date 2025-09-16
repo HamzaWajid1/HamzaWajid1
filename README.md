@@ -7,9 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-I'm an **entry-level Machine Learning Engineer** passionate about developing and deploying AI applications using **RAG, LLMs, and multi-agent systems**. I have hands-on experience in building production-ready AI solutions including legal clause retrieval systems, image generation platforms, and NLP models.  
-
-I specialize in **Python, PyTorch, and modern AI frameworks**, and I love turning complex data problems into actionable AI solutions.
+I am passionate about developing and deploying AI applications and have hands-on experience in building production-ready AI solutions.
 
 
 
